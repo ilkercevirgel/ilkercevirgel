@@ -2,7 +2,7 @@
 I have very different software ideas for both environment and mobile applications.
 - 👀 I’m interested in mobile application and game development.I want to do the ideas in my mind.
 - 🌱 I’m currently learning JavaScript,Unity,Adobe Ai
-- 💞️ I’m looking to bootcamp on Unity
+- 💞️ I’m doing YTU-Software Beginning Path and looking to bootcamp on Unity.
 - 📫 How to reach me ilkercevirgel@gmail.com
 
 <!---
